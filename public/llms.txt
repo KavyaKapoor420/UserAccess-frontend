@@ -1,0 +1,27 @@
+# UserAccess - Web Accessibility Platform
+
+> UserAccess helps websites achieve accessibility compliance with AI-powered tools and solutions.
+
+## About
+
+UserAccess is a web accessibility platform that provides tools and services to help websites become WCAG compliant. We offer both automated tools and customizable accessibility widgets.
+
+## Free Tools
+
+### Color Contrast Checker
+- URL: https://useraccess.live/tools/color-contrast-checker
+- Description: AI-powered WCAG 2.2 color contrast checker. Test your color combinations for accessibility compliance, extract colors from images, and get AI-powered suggestions to fix low contrast issues.
+
+### Accessibility Statement Generator
+- URL: https://useraccess.live/tools/accessibility-statement-generator
+- Description: Generate professional accessibility statements for your website. Customize for your organization, select compliance standards (WCAG 2.1, WCAG 2.2, ADA, Section 508), and export in Markdown or HTML format.
+
+## Main Pages
+
+- Home: https://useraccess.live
+- Pricing: https://useraccess.live/pricing
+- Contact: https://useraccess.live/contact
+
+## Contact
+
+For inquiries, visit https://useraccess.live/contact

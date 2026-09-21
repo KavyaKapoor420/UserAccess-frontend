@@ -1,0 +1,57 @@
+# UserAccess
+
+> Make your website accessible to everyone with our free accessibility widget.
+
+UserAccess is a lightweight, easy-to-integrate accessibility widget that helps websites comply with WCAG 2.1 guidelines and provide a better experience for all users.
+
+## What We Do
+
+UserAccess provides a free accessibility widget that can be added to any website with a single line of code. Our widget offers 20+ accessibility features including:
+
+- **Content Enlargement**: Enlarge cursor and text for better visibility
+- **Readability Tools**: Reading line/guide, tooltips, and readable fonts
+- **Color Adjustments**: Brightness, contrast, and grayscale controls
+- **Text-to-Speech**: Built-in screen reader functionality
+- **WCAG Compliance**: Helps meet accessibility standards
+
+## Quick Integration
+
+Add our widget to any website by including this script before the closing `</body>` tag:
+
+```html
+<script 
+  src="https://widget-v1.useraccess.live/"
+  data-asw-lang="en"
+  data-asw-position="bottom-right"
+  data-asw-icon-type="m-full"
+></script>
+```
+
+### Configuration Options
+
+- `data-asw-lang`: Language (default: "en")
+- `data-asw-position`: Widget position - "bottom-right", "bottom-left", "top-right", "top-left"
+- `data-asw-icon-type`: Icon style (default: "m-full")
+
+## Pages
+
+- **Home** (`/`): Landing page with features overview and widget installation guide
+- **Pricing** (`/pricing`): Pricing plans (coming soon)
+- **Contact** (`/contact`): Contact form for inquiries
+
+## Key Features
+
+1. **Lightning Fast**: Loads asynchronously without blocking your site
+2. **Fully Customizable**: Position, language, and icon style options
+3. **WCAG Compliant**: Helps meet accessibility standards
+4. **Free to Use**: No cost for basic accessibility features
+5. **Easy Installation**: Single script tag integration
+
+## Contact
+
+For questions, partnerships, or support, visit our contact page at `/contact`.
+
+## Links
+
+- Website: https://useraccess.live
+- Widget CDN: https://widget-v1.useraccess.live/
